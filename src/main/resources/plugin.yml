@@ -1,0 +1,4 @@
+name: DeathMessages
+version: ${project.version}
+main: me.TeamsInsane.DeathMessages.Core
+api-version: 1.16

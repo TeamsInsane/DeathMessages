@@ -1,0 +1,73 @@
+killedByArrows: "&6%player% je bil ustreljen z puščicami od %killer%"
+killedByNamedArrows:
+deadBySnowballs: "&6%player% je bil ubit z snowballi od %killer%"
+deadByNamedSnowballs:
+killedByCactus: "&6%player% je bil prešpikan do smrti"
+killedByCactusEscape: "&6%player% je bil prešpikan do smrti med pobegom pred %killer%"
+drowned: "&6%player% se je utopil"
+drownedEscape: "&6%player% se je utopil med pobegom pred %killer%"
+deadElytra: "&6%player% se je zaletel z elytro in zato poginil"
+deadElytraEscape: "&6%player% se je zaletel z elytro med pogebom pred %killer%"
+deadByExplosion: "&6%player% je eksplodiral"
+deadByExplosionPlayer: "&6%player% je eksplodiral zaradi %killer%"
+deadByExplosionPlayerItem:
+deadByExplosionGame:
+deadBySmallFall: "&6%player% si je zlomil noge"
+deadByFallEscape: "&6%player% je se spoščatil med pobegom pred %killer%"
+deadByFall: "&6%player% je postal kekec pašteta"
+deadByLadderFall: "&6%player se je spoščatil po padcu z lestve"
+deadByVinesFall: "&6%player% se je spoščatil po padcu z trte"
+deadByTwistingVinesFall: "&6%player% se je spoščatil po padcu z sukanje trte"
+deadByScaffolding: "&6%player% se je spoščatil zaradi padca z odra"
+deadByClimbing: "&6%player% se je spoščatil med plezanjem"
+deadByFellAccident:
+deadByFallingAnvil: "&6%player% je spoščatilo nakovalo"
+deadByFallingAnvilEscape: "&6%player je spoščatilo nakovalo med napadom %killer%"
+deadByFallingBlock: "&6%player% je zmečkala padajoča kocka"
+deadByFallingBlockEscape: "&6%player% je zmečkala padajoča kocka med napadom %killer%"
+deadByFallingStalactite: "&6%player% je bil nakopan s padajočim kapnikom"
+deadByFallingStalactiteEscape: "&6%player% je bil nakopan s padajočim kapnikom med pobegom pred %killer%"
+deadByFire: "&6%player% je zgorel"
+deadByFireEscape: "&6%player% je zgorel med pobegom pred %killer%"
+deadByFlame: "&6%player% je poginil zaradi vročine"
+deadByPlayerFire: "&6%player% je zgorel zaradi %killer%"
+deadByLava: "&6%player% se je šel kopat v lavo"
+deadByLavaEscape: "&6%player% se je skopal v lavi med pobegom pred %killer%"
+deadByLightning: "&6%player% je kaznoval bog"
+deadByLightingFight: "&6%player% je kaznoval bog med napadom %killer%"
+deadByMagma: "&6%player% je odkil, da so tla vroča"
+deadByMagmaEscape: "&6%player% je odkril, da so tla vroča med spopadom z %killer%"
+deadByMagic: "&6%player% je bil ubit z čarovnijo"
+deadByMagicEscape: "&6%player% je bil ubit z čarovnijo med pobegom pred %killer"
+deadByMagicPlayer:
+deadByMagicItem:
+deadByCold: "&6%player% je zmrznil do smrti"
+deadByColdPlayer: "&6%player% je zmrznil do smrti zaradi %killer%"
+deadByPlayer: "&6%player% je bil ubit zaradi %killer%"
+deadByPlayerItem:
+deadByFireball: "&6%player% je bil ustreljen z ognjeno bombo zaradi %killer%"
+deadByFireballItem:
+deadByBee: "&6%player% je špiknila čebela"
+deadByBeeItem:
+deadByWitherSkull: "&6%player% no idea kaj je to"
+deadByHunger: "&6%player% ni dobil kremšnite"
+deadByHungerFighting: "&6%player% ni dobil kremšnite med napadom na %killer%"
+deadBySuffocation: "&6%player% se je zadušil v kocki"
+deadBySuffocationPlayer: "&6%player% se je zadušil v kocki med napadom na %killer%"
+deadBySquished: "&6%player% je bil preveč zmečkan"
+deadBySquishedPlayer: "&6%player% je bil preveč zmečkan zaradi %killer%"
+deadBySweetBerry: "&6%player% je špiknila do smrti jagodičasta jagodičja"
+deadBySweetBerryEscape: "&6%player% je špiknila do smrti jagodičasta jadodičja med pobegom pred %killer%"
+deadByThorns: "&6%player% je bil ubit ko je probal poškodovati %killer%"
+deadByThornsItem:
+deadByTrident: "&6%player% je bil nataknjen na vilico od %killer%"
+deadByTridentItem:
+deadByVoid: "&6%player% je padel iz sveta"
+deadByVoidPlayer: "&6%player% ni hotel živeti v istem svetu kot %killer%"
+deadByWither: "&6%player% je bil ubit zaradi črnega moža"
+deadByWitherFighting: "&6%player% je bil ubit zaradi črnega moža med napadom na %killer%"
+
+
+
+
+

@@ -8,8 +8,8 @@ import java.io.File;
 import java.io.InputStreamReader;
 import java.io.Reader;
 
-public class Configuration {
-    private Core core;
+public final class Configuration {
+    private final Core core;
     public Configuration(Core core){
         this.core = core;
     }

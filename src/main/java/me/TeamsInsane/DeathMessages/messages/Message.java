@@ -9,7 +9,7 @@ import org.bukkit.event.entity.PlayerDeathEvent;
 
 import java.util.*;
 
-public class Message {
+public final class Message {
 
     private final PlayerDeathEvent event;
     private final String message;

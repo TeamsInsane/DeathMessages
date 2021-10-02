@@ -1,4 +1,4 @@
-package me.TeamsInsane.DeathMessages.Listeners;
+package me.TeamsInsane.DeathMessages.listeners;
 
 import me.TeamsInsane.DeathMessages.messages.Message;
 import org.bukkit.event.EventHandler;
@@ -10,7 +10,7 @@ import org.bukkit.event.entity.PlayerDeathEvent;
  * @author TeamsInsane
  * @version 1.0
  */
-public class OnDeath implements Listener {
+public final class PlayerDeathListener implements Listener {
 
     /**
      * This method contains player death event listener.
